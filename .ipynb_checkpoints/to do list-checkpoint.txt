@@ -1,0 +1,51 @@
+
+To-do:
+
+Cost Variations-往下部分未梳理
+
+
+-有图的部门适当都添加findings and insight--done
+
+-remove warning--done
+
+-格式乱的那部份调整--搞不定
+
+-remove unnecessary code
+
+-图片大小调整 --done
+
+-heading的结构层次调整要梳理
+-heading
+-code and plot
+-finding and insight
+
+
+
+
+Data citation-done
+
+Part 1: Key Metric Cards
+	1.	Time to Hire: Displays the average time taken to hire a candidate.--got
+	2.	Offer Acceptance Rate: Shows the percentage of offers accepted by candidates.-got
+	3.	Average Hire Cost: Displays the average cost per hire. --got
+	
+
+Part 2: Recruitment Funnel Chart --got
+	•	Visualizes the number of candidates at each stage of the recruitment process, from application to hire.
+	•	Stages include:
+	•	Applications: Total number of applicants.
+	•	Interviews: Total number of candidates interviewed.
+	•	Offers: Total number of offers extended.
+	•	Hires: Total number of candidates hired.
+
+
+Part 3: Recruiter's Performance--done
+-recruiter 只有4位
+
+
+
+
+
+
+
+
